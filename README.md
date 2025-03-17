@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Front-End Developer with over 1 year of professional experience in creating dynamic and interactive web<br> and mobile applications. Possess deep knowledge of HTML, CSS, and JavaScript, as well as experience with<br> React and React Native. Participated in several projects where I developed interfaces, improved application<br> performance, and collaborated with designers and backend developers.</p>
+<p align="left">I am a Full-Stack Developer with over 2 years of experience in creating dynamic web, mobile, and desktop applications. I specialize in developing intuitive user interfaces, optimizing performance, and seamlessly integrating frontend with backend. My focus is on clean, efficient code and solving complex technical challenges.</p>
 
 ###
 
@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" height="40" alt="next js logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
