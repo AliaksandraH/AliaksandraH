@@ -40,6 +40,19 @@
 
 ###
 
+<h3 align="left">🖥 My Portfolio</h3>
+
+###
+
+<div align="left">
+  <p>Below is a link to my portfolio, where you can explore more of my projects. It includes examples of my work that showcase my experience and professional approach. I would be glad if you find something interesting and useful there!</p>
+  <a href="https://www.unitio-code.com/" target="_blank">
+    <img src="https://i.ibb.co/m5zx3VJP/unitio-code-logo.png" height="65" width="100%" alt="unitio code logo"  />
+  </a>
+</div>
+
+###
+
 <h3 align="left">📫 Let's Connect</h3>
 
 ###
