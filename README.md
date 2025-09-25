@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Full-Stack Developer with over 2 years of experience in creating dynamic web, mobile, and desktop applications. I specialize in developing intuitive user interfaces, optimizing performance, and seamlessly integrating frontend with backend. My focus is on clean, efficient code and solving complex technical challenges.</p>
+<p align="left">I am a Full-Stack Developer with over 3 years of experience in creating dynamic web, mobile, and desktop applications. I specialize in developing intuitive user interfaces, optimizing performance, and seamlessly integrating frontend with backend. My focus is on clean, efficient code and solving complex technical challenges.</p>
 
 ###
 
